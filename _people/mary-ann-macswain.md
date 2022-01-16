@@ -1,6 +1,6 @@
 ---
 title: Mary-Ann MacSwain
-date: 2016-11-08 00:00:00 +0000
+date: 2016-11-08 00:00:00 Z
 description: ''
 email: maryanne@belkirkcollege.ca
 linkedin: ''
@@ -12,7 +12,7 @@ sub_heading: Research Chair
 tags:
 - radssfdfdsfds fdfasdfd saffdssfd
 thumbnail: "/uploads/2017/11/14/jeffrey-wegrzyn-183858.jpg"
-layout: 'person'
+layout: person
 ---
 
 Mary-Ann MacSwain joined Belkirk in 2016 as a Data Analyst.
