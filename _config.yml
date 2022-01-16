@@ -1,8 +1,8 @@
 title: Belkirk College of Engineering
 short_title: Belkirk
 description: Jekyll demo for Forestry CMS
-baseurl:
-permalink: "/:path/"
+baseurl: "/"
+permalink: "https://fressor.com/academic"
 defaults:
   - scope:
       path: ""
